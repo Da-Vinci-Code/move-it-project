@@ -1,0 +1,22 @@
+[
+  {
+    "type": "body",
+    "description": "Estique seus bracos com palma da mao virada para frente e puxe os dedos por cima de sua cabeca",
+    "amount":80
+  },
+  {
+    "type": "eye",
+    "description": "Sentado, feche os olhos e cubra-os com as palmas da mao durante 2 minutos, depois abra normal",
+    "amount":90
+  },
+  {
+    "type": "eye",
+    "description": "usando os polegares, massage a area abaixo das sobrancelhas em movimentos circulares por 15 segundos",
+    "amount":70
+  },
+  {
+    "type": "body",
+    "description": "Em pe, gire a cintura o maximo que puder pra a esquerda, segure por cinco segundos. Repita o processo, porem, para a direita",
+    "amount":90
+  }
+]
